@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vaxojaniashvili186@gmail.com**
 
-- ⚡ Fun fact **I have a responsibility**
+- ⚡ Fact **I have a responsibility**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
