@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Node.js and mongodb**
 
-- 👯 I’m looking to collaborate on [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/)
+- 👨‍💻 One of my projects  [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/)
+
+- 👯 I’m looking to collaborate on **with a responsible person**
 
 - 💬 Ask me about **JavaScript,React**
 
