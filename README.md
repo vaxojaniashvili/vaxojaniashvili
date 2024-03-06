@@ -1,4 +1,3 @@
-<img alig="center" alt="codding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e?fbclid=IwAR2E9XhwaIMhVk7E5ROtPTmTxNDJTFPGcWCmxB1KeoXCUehP7nu9on1B80c">
 <h1 align="center">Hi 👋, I'm vaxo janiashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
