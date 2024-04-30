@@ -54,6 +54,5 @@
     </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwnd" width="40" height="40"/>
-            
     </a>
 </p>
