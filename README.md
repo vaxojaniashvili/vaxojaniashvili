@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js and mongodb**
 
-- 👨‍💻 One of my projects  [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/) and https://shopping-app-taupe.vercel.app/
+- 👨‍💻 One of my projects  [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/) and [Ecobazar for Products](https://shopping-app-taupe.vercel.app/)
 
 - 👯 I’m looking to collaborate on **with a responsible person**
 
