@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Products-website**
 
-- 🌱 I’m currently learning **Node.js and mongodb**
+- 🌱 I’m currently learning **Nest.js and mongodb**
 
 - 👨‍💻 One of my projects  [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/) and [Ecobazar for Products](https://shopping-app-taupe.vercel.app/)
 
@@ -56,4 +56,3 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwnd" width="40" height="40"/>
     </a>
 </p>
-
