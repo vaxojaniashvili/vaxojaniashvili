@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Products-website**
 
-- 🌱 I’m currently learning **Nest.js and mongodb**
+- 🌱 I’m currently learning **PHP and laravel **
 
 - 👨‍💻 One of my projects  [GitHub Username Searcher](https://git-hub-user-searcher-with-java-script.vercel.app/) and [Ecobazar for Products](https://shopping-app-taupe.vercel.app/)
 
