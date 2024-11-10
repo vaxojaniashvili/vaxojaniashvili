@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP laravel**
 
-- 👨‍💻 Portfolio **https://www.vaxos-portfolio.site**
+- 👨‍💻 Portfolio **https://vaxos-portfolio.site**
 
 - 👯 I’m looking to collaborate on **with a responsible person**
 
