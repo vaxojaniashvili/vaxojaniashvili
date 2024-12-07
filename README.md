@@ -13,8 +13,6 @@
 
 - 👨‍💻 Portfolio **https://vaxos-portfolio.site**
 
-- 👯 I’m looking to collaborate on **with a responsible person**
-
 - 💬 Ask me about **JavaScript,TypeScript,React,Next.js,Node.js**
 
 - 📫 How to reach me **vaxojaniashvili186@gmail.com**
