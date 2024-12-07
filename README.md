@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vaxo janiashvili</h1>
+<h1 align="center">Hi 👋, I'm Vaxo Janiashvili</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
