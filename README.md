@@ -33,6 +33,12 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
+            <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+    </a>
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+    </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="Next.js" width="40" height="40"/>
     </a>
