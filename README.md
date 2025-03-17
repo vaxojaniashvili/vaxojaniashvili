@@ -12,7 +12,7 @@
 
 - 👨‍💻 Portfolio **https://vaxos-portfolio.site**
 
-- 💬 Ask me about **JavaScript,TypeScript PHP,Laravel,React.js,Next.js,Node.js**
+- 💬 Ask me about **JavaScript,TypeScript PHP,Laravel,React.js,React Native,Next.js,Node.js**
 
 - 📫 How to reach me **vaxojaniashvili186@gmail.com**
 
