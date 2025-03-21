@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Alliance Loyalty: http://ally.ge**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 Portfolio **https://vaxos-portfolio.site**
 
