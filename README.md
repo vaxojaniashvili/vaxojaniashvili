@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaxo Janiashvili</h1>
-<h3 align="center">A Passionate Full-Stack Web & Mobile Developer From Georgia</h3>
+<h3 align="center">A Passionate Mobile Enginner & Full-Stack Web & Mobile Developer From Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaxojan&label=Profile%20views&color=0e75b6&style=flat" alt="vaxojan" /> </p>
