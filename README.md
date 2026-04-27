@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Alliance Loyalty: [http://ally.ge](https://www.rompetrol.ge/)**
+- 🔭 I’m currently working on RompetrolApp: **https://www.rompetrol.ge**
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 Portfolio **https://vaxos-portfolio.site**
 
-- 💬 Ask me about **JavaScript,TypeScript PHP,Laravel,React.js,React Native,Next.js,Node.js**
+- 💬 Ask me about **JavaScript,TypeScript,React.js,React Native,Next.js,Node.js**
 
 - 📫 How to reach me **vaxojaniashvili186@gmail.com**
 
