@@ -18,7 +18,7 @@
 - 📱 I build cross-platform mobile apps with **React Native**
 - 🔭 Currently working on **[RompetrolApp](https://www.rompetrol.ge)** @ Re:soft
 - 🌱 Currently learning **Kotlin** to dive deeper into native Android
-- 💼 Portfolio → **[vaxos-portfolio.site](https://vaxos-portfolio.site)**
+- 💼 Portfolio → **[vaxos-portfolio.site](https://portfolio-ab22.vercel.app)**
 - 💬 Ask me about **React Native, React, TypeScript, Next.js, Node.js**
 - 📫 Reach me at **vaxojaniashvili186@gmail.com**
 - ⚡ Fun fact: I take ownership seriously — if it's on my plate, it ships
