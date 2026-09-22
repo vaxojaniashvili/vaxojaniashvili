@@ -107,7 +107,7 @@
   <a href="https://www.instagram.com/vaxo_janiashvili1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://vaxos-portfolio.site" target="_blank">
+  <a href="https://portfolio-ab22.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:vaxojaniashvili186@gmail.com">
