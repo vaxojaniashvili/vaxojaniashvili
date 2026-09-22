@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaxo Janiashvili</h1>
-<h3 align="center">Middle React Native Developer from Georgia 🇬🇪</h3>
+<h3 align="center">Middle React Native Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaxojaniashvili&label=Profile%20views&color=0e75b6&style=flat" alt="vaxojaniashvili" />
